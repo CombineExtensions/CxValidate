@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CxDisposeBag",
+        "repositoryURL": "https://github.com/CombineExtensions/CxDisposeBag.git",
+        "state": {
+          "branch": null,
+          "revision": "08ab0e390675f359997d585540a977f52c508692",
+          "version": "0.2.0"
+        }
+      },
+      {
+        "package": "CxTest",
+        "repositoryURL": "https://github.com/CombineExtensions/CxTest.git",
+        "state": {
+          "branch": null,
+          "revision": "290a0f5df46431b357f402956f398e84f89dd048",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
